@@ -1,4 +1,4 @@
-module "vpc" {
+module "network" {
     source  = "app.terraform.io/austin-test-organization3/network/google"
     version = "3.4.0"
 
